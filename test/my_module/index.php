@@ -1,4 +1,8 @@
 <?php
+/**
+ * @file
+ * Test index file.
+ */
 
-// Hello Comment
+// Print Hello.
 echo "Hello";
